@@ -2,6 +2,8 @@
 
 Bem-vindo à documentação da PayAPI, uma aplicação de pagamento com diversos endpoints para gerenciar autenticação, bancos, boletos de pagamento e usuários.
 
+Site: https://payapi20240122021747.azurewebsites.net/swagger/index.html
+
 ## Autenticação (Auth)
 
 ### Login
